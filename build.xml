@@ -4,8 +4,8 @@
     <!-- The local.properties file is created and updated by the 'android' tool.
          It contains the path to the SDK. It should *NOT* be checked into
          Version Control Systems. -->
-    <property file="local.properties" />
 
+所发生的
     <!-- The ant.properties file can be created by you. It is only edited by the
          'android' tool to add properties to it.
          This is the place to change some Ant specific build properties.
@@ -29,7 +29,7 @@
     <property file="ant.properties" />
 
     <!-- The project.properties file is created and updated by the 'android'
-         tool, as well as ADT.
+         的发生法撒旦
 
          This contains project specific properties such as project target, and library
          dependencies. Lower level build properties are stored in ant.properties
