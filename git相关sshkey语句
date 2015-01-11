@@ -1,0 +1,2 @@
+ssh-keygen -t rsa -C "lantianhe@aliyun.com" -f ~/.ssh/bitbucket
+ssh-keygen -t rsa -f ~/.ssh/id_rsa.github -C "Key-github"
